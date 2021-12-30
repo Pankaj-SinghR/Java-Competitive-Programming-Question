@@ -1,0 +1,6 @@
+How to approach:
+
+1 - Run the outter for loop number of times you are having the line
+2 - identify for every row no. 
+    a - how many cols are there
+    b - types of elements in col
